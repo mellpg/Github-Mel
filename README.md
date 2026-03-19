@@ -1,44 +1,40 @@
-<h1 align="left">Olá Mundo! </h1>
+# Olá, eu sou a Mel! 👋
 
-###
+<p align="left">
+  <strong>Estudante de Ciência da Computação | Desenvolvedora em Formação</strong><br>
+  📍 Rio de Janeiro, Brasil
+</p>
 
-<p align="left">Meu nome é Mel ! Tenho 19 anos e moro no Rio de janeiro!</p>
+---
 
-###
+### 👩‍💻 Sobre Mim
 
-<h2 align="left">Sobre mim</h2>
+Sou graduanda em **Ciência da Computação**, focada em construir soluções eficientes e escaláveis. Atualmente, dedico meus estudos ao ecossistema de desenvolvimento Full Stack, com interesse especial em:
 
-###
+* **Backend:** Arquitetura de sistemas escaláveis e automação de processos.
+* **Dados:** Modelagem e gerenciamento de bancos de dados.
+* **Frontend:** Criação de interfaces modernas e responsivas.
 
-<p align="left">Cursando Ciência da computação<br> Atualmente estou aprendendo sobre desenvolvimento web, automatação de tarefas, backend para sistemas escaláveis, banco de dados e front-end.<br>Tenho objetivo de fortalecer meus conhecimentos e os colocar na prática!<br></p>
+Meu objetivo principal é aplicar fundamentos teóricos em projetos práticos que resolvam problemas reais e otimizem fluxos de trabalho.
 
-###
+---
 
-<h2 align="left">Eu programo com:</h2>
-
-###
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
 </div>
 
-###
+---
+
+### 📈 Estatísticas
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=vibrant&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=vibrant"/>
+</p>
