@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Sobre Mim
 
-Sou graduanda em **Ciência da Computação**, focada em construir soluções eficientes e escaláveis. Atualmente, dedico meus estudos ao ecossistema de desenvolvimento Full Stack, com interesse especial em:
+Sou graduanda em **Ciência da Computação**, focada em construir soluções eficientes e escaláveis. Atualmente, dedico meus estudos e projetos ao ecossistema de desenvolvimento Full Stack, com interesse especial em:
 
 * **Backend:** Arquitetura de sistemas escaláveis e automação de processos.
 * **Dados:** Modelagem e gerenciamento de bancos de dados.
